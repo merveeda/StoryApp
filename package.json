@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "flow": "flow"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.17",
+    "expo": "^32.0.0",
+    "flow-bin": "^0.98.1",
+    "native-base": "^2.12.1",
+    "prop-types": "^15.7.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-dynamic-search-bar": "^0.1.11",
+    "react-native-dynamic-vector-icons": "0.0.3",
+    "react-native-elements": "^1.1.0",
+    "react-native-iphone-x-helper": "^1.2.0",
+    "react-native-modal": "^10.0.0",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-svg": "^9.4.0",
+    "react-navigation": "^2.6.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
